@@ -3,8 +3,8 @@
 ![calculator-android](https://github.com/monirweb/calculator-android/blob/master/calculator-pic.png "SIMPLE CALCULATOR IN ANDROID")
 
 
-This is a simple calculator in java.It has four main operators like `(+,-,*,/)`.
-It supports `double` and `floating point` numbers and handles /0 which is  NaN.
+This is a simple calculator in android.It has four main operators like `(+,-,*,/)`.
+It supports `double` and `floating point` numbers and handles /0 which is NaN.
 It has two buttons ,`CLEAR` and `RESET`.
  
 This application will be run in android mobile phones.
